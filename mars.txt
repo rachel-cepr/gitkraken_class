@@ -2,4 +2,7 @@ Mars is a red planet.
 It is cold and dry, but everything is my favorite color.
 
 change.
+
 change2...because I want to cause a conflict with my neighbor.
+change again, now on github.com
+CONFICT HAPPENED BUT IT IS NOW RESOLVED.
