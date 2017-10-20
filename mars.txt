@@ -6,3 +6,5 @@ change.
 change2...because I want to cause a conflict with my neighbor.
 change again, now on github.com
 CONFICT HAPPENED BUT IT IS NOW RESOLVED.
+
+THIS IS VERY DIFFICULT SITUATION BECAUSE I KNOW YOU WILL CAUSE A CONFLICT BUT I JUST HAVE TO LET YOU BE.
